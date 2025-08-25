@@ -1,0 +1,4 @@
+/* Minimal tweaks for nicer spacing */
+body { max-width: 840px; margin: 2rem auto; padding: 0 1rem; line-height: 1.6; }
+img { display:block; margin: 1rem auto; }
+h1, h2, h3 { letter-spacing: 0.2px; }
